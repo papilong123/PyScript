@@ -4,7 +4,7 @@ import os
 my_train_path = 'dataset/Caltech256/dataset4u-trn.txt'
 my_test_path = 'dataset/Caltech256/dataset4u-val.txt'
 
-my_dataset_path = 'C:/path/to/dataset/Caltech256'
+my_dataset_path = 'path/to/dataset/Caltech256'
 
 
 def generate_label(train_path, test_path, dataset_path):
